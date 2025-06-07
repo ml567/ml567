@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,ts," height="60" alt="programming languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,ts,php" height="60" alt="programming languages" />
   <br/>
   
   <!-- Frontend -->
